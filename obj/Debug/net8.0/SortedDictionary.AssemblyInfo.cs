@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortedDictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aa4bfc756d391ce278bd460e6e5be35aa6c4ef4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortedDictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortedDictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

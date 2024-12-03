@@ -16,7 +16,7 @@ namespace Program
 
         static void insert()
         {
-            string[] lines = File.ReadAllLines(@"C:\\Users\\mhmtm\\source\\repos\\SortedDictionary\\kayitlar.txt");
+            string[] lines = File.ReadAllLines(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "kayitlar.txt"));
             foreach (var line in lines)
             {
                 string[] parts = line.Split("|");

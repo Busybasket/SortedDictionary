@@ -12,3 +12,5 @@ C:\Users\mhmtm\source\repos\SortedDictionary\obj\Debug\net8.0\refint\SortedDicti
 C:\Users\mhmtm\source\repos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.pdb
 C:\Users\mhmtm\source\repos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.genruntimeconfig.cache
 C:\Users\mhmtm\source\repos\SortedDictionary\obj\Debug\net8.0\ref\SortedDictionary.dll
+C:\Users\mhmtm\source\repos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.sourcelink.json
+C:\Users\mhmtm\source\repos\SortedDictionary\bin\Debug\net8.0\kayitlar.txt
